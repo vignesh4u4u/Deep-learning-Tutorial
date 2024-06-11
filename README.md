@@ -24,8 +24,20 @@ git clone https://github.com/your-username/deep-learning-tutorial-tensorflow.git
 cd deep-learning-tutorial-tensorflow
 ```
 
-**## installation **
+## Installation
+
+* python 3.x
+* pip
+* IDE (pycharm ,VS,etc..)
+* 
 ```bash
 pip install -r requirements.txt
 ```
+
+## Tutorial overview
+
+
+## contact
+
+* **mail:** vickys9715@gmail.com
 
