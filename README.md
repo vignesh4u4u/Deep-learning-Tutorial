@@ -1,1 +1,1 @@
- <h1> DEEP LEARNING TUTORIAL Tensorflow</h1>
+ <h1 style="color:blue;font-align:center"> DEEP LEARNING TUTORIAL Tensorflow</h1>
