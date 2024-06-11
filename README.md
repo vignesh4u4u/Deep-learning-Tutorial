@@ -22,3 +22,8 @@ To get started, clone this repository to your local machine:
 ```bash
 git clone https://github.com/your-username/deep-learning-tutorial-tensorflow.git
 cd deep-learning-tutorial-tensorflow
+
+**## installation **
+```bash
+pip install -r requirements.txt
+
